@@ -9,6 +9,10 @@ A new lightweight CNN classification method based on branch feature fusion (LCNN
 
 The experimental results showed that, compared with recent classification methods, the number of weight parameters of the proposed method only accounted for less than 5% of the other methods; however, the classification accuracy was equivalent to or even superior to certain high-performance classification methods.
 
+**Dataset**
+
+NWPU-RESISC45 dataset is a dataset for Remote Sensing Image Scene Classification (RESISC). It contains 31,500 RGB images of size 256×256 divided into 45 scene classes, each class containing 700 images. Among its notable features, RESISC45 contains varying spatial resolution ranging from 20cm to more than 30m/px.
+
 **Presented by**
 
 Ajitesh M 2019103503
